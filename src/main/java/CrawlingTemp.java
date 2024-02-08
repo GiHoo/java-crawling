@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
-public class Main {
+public class CrawlingTemp {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
